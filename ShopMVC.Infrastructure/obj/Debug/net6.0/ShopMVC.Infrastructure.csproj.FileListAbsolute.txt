@@ -1,0 +1,15 @@
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\bin\Debug\net6.0\ShopMVC.Infrastructure.deps.json
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\bin\Debug\net6.0\ShopMVC.Infrastructure.dll
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\bin\Debug\net6.0\ShopMVC.Infrastructure.pdb
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\bin\Debug\net6.0\ShopMVC.Domain.dll
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\bin\Debug\net6.0\ShopMVC.Domain.pdb
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\ShopMVC.Infrastructure.csproj.AssemblyReference.cache
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\ShopMVC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\ShopMVC.Infrastructure.AssemblyInfoInputs.cache
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\ShopMVC.Infrastructure.AssemblyInfo.cs
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\ShopMVC.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\ShopMVC.Infrastructure.csproj.CopyComplete
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\ShopMVC.Infrastructure.dll
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\refint\ShopMVC.Infrastructure.dll
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\ShopMVC.Infrastructure.pdb
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\ref\ShopMVC.Infrastructure.dll

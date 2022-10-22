@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "79lVYFLR94mrEx+6LzkBmxrbmgErtgRywOFKfjR+dzIyW1PyyoRBUGFazrcLkpvag8t+DRkT//Pr3vcDzvakeQ==",
+  "dgSpecHash": "GTYltZWW5kg7u45CGVDZBCdxq2IuNlokmNiOHn0NMlG6uKsnu/z3oXzoZKn4EhddTySMGOZEKBEX7DSCksA/ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Application\\ShopMVC.Application.csproj",
+  "projectFilePath": "C:\\Repo\\ShopMVC\\ShopMVC.Application\\ShopMVC.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC\\ShopMVC.csproj": {}
+    "C:\\Repo\\ShopMVC\\ShopMVC\\ShopMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Application\\ShopMVC.Application.csproj": {
+    "C:\\Repo\\ShopMVC\\ShopMVC.Application\\ShopMVC.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Application\\ShopMVC.Application.csproj",
+        "projectUniqueName": "C:\\Repo\\ShopMVC\\ShopMVC.Application\\ShopMVC.Application.csproj",
         "projectName": "ShopMVC.Application",
-        "projectPath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Application\\ShopMVC.Application.csproj",
+        "projectPath": "C:\\Repo\\ShopMVC\\ShopMVC.Application\\ShopMVC.Application.csproj",
         "packagesPath": "C:\\Users\\dhapk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Application\\obj\\",
+        "outputPath": "C:\\Repo\\ShopMVC\\ShopMVC.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj": {
-                "projectPath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj"
+              "C:\\Repo\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj": {
+                "projectPath": "C:\\Repo\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj": {
+    "C:\\Repo\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj",
+        "projectUniqueName": "C:\\Repo\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj",
         "projectName": "ShopMVC.Domain",
-        "projectPath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj",
+        "projectPath": "C:\\Repo\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj",
         "packagesPath": "C:\\Users\\dhapk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Domain\\obj\\",
+        "outputPath": "C:\\Repo\\ShopMVC\\ShopMVC.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Infrastructure\\ShopMVC.Infrastructure.csproj": {
+    "C:\\Repo\\ShopMVC\\ShopMVC.Infrastructure\\ShopMVC.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Infrastructure\\ShopMVC.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Repo\\ShopMVC\\ShopMVC.Infrastructure\\ShopMVC.Infrastructure.csproj",
         "projectName": "ShopMVC.Infrastructure",
-        "projectPath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Infrastructure\\ShopMVC.Infrastructure.csproj",
+        "projectPath": "C:\\Repo\\ShopMVC\\ShopMVC.Infrastructure\\ShopMVC.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\dhapk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Infrastructure\\obj\\",
+        "outputPath": "C:\\Repo\\ShopMVC\\ShopMVC.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -157,8 +157,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj": {
-                "projectPath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj"
+              "C:\\Repo\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj": {
+                "projectPath": "C:\\Repo\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj"
               }
             }
           }
@@ -192,14 +192,14 @@
         }
       }
     },
-    "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC\\ShopMVC.csproj": {
+    "C:\\Repo\\ShopMVC\\ShopMVC\\ShopMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC\\ShopMVC.csproj",
+        "projectUniqueName": "C:\\Repo\\ShopMVC\\ShopMVC\\ShopMVC.csproj",
         "projectName": "ShopMVC",
-        "projectPath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC\\ShopMVC.csproj",
+        "projectPath": "C:\\Repo\\ShopMVC\\ShopMVC\\ShopMVC.csproj",
         "packagesPath": "C:\\Users\\dhapk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC\\obj\\",
+        "outputPath": "C:\\Repo\\ShopMVC\\ShopMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -221,11 +221,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Application\\ShopMVC.Application.csproj": {
-                "projectPath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Application\\ShopMVC.Application.csproj"
+              "C:\\Repo\\ShopMVC\\ShopMVC.Application\\ShopMVC.Application.csproj": {
+                "projectPath": "C:\\Repo\\ShopMVC\\ShopMVC.Application\\ShopMVC.Application.csproj"
               },
-              "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Infrastructure\\ShopMVC.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Infrastructure\\ShopMVC.Infrastructure.csproj"
+              "C:\\Repo\\ShopMVC\\ShopMVC.Infrastructure\\ShopMVC.Infrastructure.csproj": {
+                "projectPath": "C:\\Repo\\ShopMVC\\ShopMVC.Infrastructure\\ShopMVC.Infrastructure.csproj"
               }
             }
           }
@@ -259,6 +259,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
             }
           },
           "imports": [

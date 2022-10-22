@@ -1,0 +1,15 @@
+C:\Repo\ShopMVC\ShopMVC.Application\bin\Debug\net6.0\ShopMVC.Application.deps.json
+C:\Repo\ShopMVC\ShopMVC.Application\bin\Debug\net6.0\ShopMVC.Application.dll
+C:\Repo\ShopMVC\ShopMVC.Application\bin\Debug\net6.0\ShopMVC.Application.pdb
+C:\Repo\ShopMVC\ShopMVC.Application\bin\Debug\net6.0\ShopMVC.Domain.dll
+C:\Repo\ShopMVC\ShopMVC.Application\bin\Debug\net6.0\ShopMVC.Domain.pdb
+C:\Repo\ShopMVC\ShopMVC.Application\obj\Debug\net6.0\ShopMVC.Application.csproj.AssemblyReference.cache
+C:\Repo\ShopMVC\ShopMVC.Application\obj\Debug\net6.0\ShopMVC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ShopMVC\ShopMVC.Application\obj\Debug\net6.0\ShopMVC.Application.AssemblyInfoInputs.cache
+C:\Repo\ShopMVC\ShopMVC.Application\obj\Debug\net6.0\ShopMVC.Application.AssemblyInfo.cs
+C:\Repo\ShopMVC\ShopMVC.Application\obj\Debug\net6.0\ShopMVC.Application.csproj.CoreCompileInputs.cache
+C:\Repo\ShopMVC\ShopMVC.Application\obj\Debug\net6.0\ShopMVC.Application.csproj.CopyComplete
+C:\Repo\ShopMVC\ShopMVC.Application\obj\Debug\net6.0\ShopMVC.Application.dll
+C:\Repo\ShopMVC\ShopMVC.Application\obj\Debug\net6.0\refint\ShopMVC.Application.dll
+C:\Repo\ShopMVC\ShopMVC.Application\obj\Debug\net6.0\ShopMVC.Application.pdb
+C:\Repo\ShopMVC\ShopMVC.Application\obj\Debug\net6.0\ref\ShopMVC.Application.dll

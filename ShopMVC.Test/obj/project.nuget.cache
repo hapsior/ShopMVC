@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "usX7X9Gb/EaI7eViiMzrWnD7B47GeYDerpy90V83AkmYyg3louabGv7WqmS3kWCC5H15xruwm4Kk1+3CG0CIDw==",
+  "dgSpecHash": "W9S/++LqER9d6EpJ21yRPk2r2myx0dtQNKBuIYPCM74j/QAYVAb6sCMMS/5CNuXE596EO/BIEFd+VjdErmTyCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Test\\ShopMVC.Test.csproj",
+  "projectFilePath": "C:\\Repo\\ShopMVC\\ShopMVC.Test\\ShopMVC.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dhapk\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

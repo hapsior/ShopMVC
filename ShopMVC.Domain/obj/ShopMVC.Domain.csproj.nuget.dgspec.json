@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj": {}
+    "C:\\Repo\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj": {
+    "C:\\Repo\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj",
+        "projectUniqueName": "C:\\Repo\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj",
         "projectName": "ShopMVC.Domain",
-        "projectPath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj",
+        "projectPath": "C:\\Repo\\ShopMVC\\ShopMVC.Domain\\ShopMVC.Domain.csproj",
         "packagesPath": "C:\\Users\\dhapk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhapk\\source\\repos\\ShopMVC\\ShopMVC.Domain\\obj\\",
+        "outputPath": "C:\\Repo\\ShopMVC\\ShopMVC.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

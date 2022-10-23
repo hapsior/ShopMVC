@@ -9,8 +9,6 @@ namespace ShopMVC.Application.Services
 {
     public class ItemService : IItemService
     {
-
-
         public List<int> GetAllItems()
         {
             return new List<int>();

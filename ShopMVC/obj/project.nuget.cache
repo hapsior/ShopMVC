@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "gWehoksvGIw74dPYJgdwbZdV2q2V8Cg75xBX7f2dVXIPGkq8DHxeqJhI6xX7rRUlilrVS5a29Rze2/71rkrAgQ==",
-  "success": true,
+  "dgSpecHash": "XF+jU0Q8wU5PFP6kLvChOKe4uJ+YMkZf5cPo0Vp52YfEyEADz8kwMoqc4Aidv7323VZ88BkCnee2a5ZdqqFo5w==",
+  "success": false,
   "projectFilePath": "C:\\Repo\\ShopMVC\\ShopMVC\\ShopMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dhapk\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -37,9 +37,9 @@
     "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.diasymreader\\1.3.0\\microsoft.diasymreader.1.3.0.nupkg.sha512",
     "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.dotnet.scaffolding.shared\\6.0.10\\microsoft.dotnet.scaffolding.shared.6.0.10.nupkg.sha512",
-    "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
-    "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.9\\microsoft.entityframeworkcore.abstractions.6.0.9.nupkg.sha512",
-    "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.9\\microsoft.entityframeworkcore.analyzers.6.0.9.nupkg.sha512",
+    "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
+    "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",
+    "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.10\\microsoft.entityframeworkcore.analyzers.6.0.10.nupkg.sha512",
     "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.9\\microsoft.entityframeworkcore.design.6.0.9.nupkg.sha512",
     "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.9\\microsoft.entityframeworkcore.relational.6.0.9.nupkg.sha512",
     "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.9\\microsoft.entityframeworkcore.sqlserver.6.0.9.nupkg.sha512",
@@ -47,7 +47,7 @@
     "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
     "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\dhapk\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\6.0.9\\microsoft.extensions.fileproviders.embedded.6.0.9.nupkg.sha512",
@@ -184,5 +184,15 @@
     "C:\\Users\\dhapk\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\dhapk\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Detected package downgrade: Microsoft.EntityFrameworkCore.SqlServer from 6.0.10 to 6.0.9. Reference the package directly from the project to select a different version. \r\n ShopMVC -> ShopMVC.Infrastructure -> Microsoft.EntityFrameworkCore.SqlServer (>= 6.0.10) \r\n ShopMVC -> Microsoft.EntityFrameworkCore.SqlServer (>= 6.0.9)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

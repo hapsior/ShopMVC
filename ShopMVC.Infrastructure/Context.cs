@@ -15,9 +15,13 @@ namespace ShopMVC.Infrastructure
         public DbSet<Item> Items { get; set; }
         public DbSet<Order> Orders { get; set; }
 
-        public Context(DbContextOptions options) : base(options)
+        public Context(DbContextOptions<Context> options) : base(options)
         {
 
+        }
+
+        public Context()
+        {
         }
 
         protected override void OnModelCreating(ModelBuilder builder)

@@ -31,19 +31,6 @@ namespace ShopMVC.Controllers
             return View();
         }
 
-        public IActionResult Contact()
-        {
-            ViewData["Message"] = "Your contact page.";
-            List<Address> addresses = new List<Address>();
-            var address = new Address("Microsoft",
-            "One Microsoft Way",
-            "Redmond",
-             "WA",
-            "98052-6399");
-            addresses.Add(address);
-            return View(addresses);
-        }
-
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

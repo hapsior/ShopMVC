@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace ShopMVC.Application.ViewModels.Customer
 {
-    public class ListCustomerForListVm
+    public class NewCustomerVm
     {
-        public List<CustomerToListVm> Customers { get; set; }
-        public int Count { get; set; }
-
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }

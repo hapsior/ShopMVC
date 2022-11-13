@@ -1,4 +1,5 @@
 C:\Repo\ShopMVC\ShopMVC.Infrastructure\bin\Debug\net6.0\ShopMVC.Infrastructure.deps.json
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\bin\Debug\net6.0\ShopMVC.Infrastructure.runtimeconfig.json
 C:\Repo\ShopMVC\ShopMVC.Infrastructure\bin\Debug\net6.0\ShopMVC.Infrastructure.dll
 C:\Repo\ShopMVC\ShopMVC.Infrastructure\bin\Debug\net6.0\ShopMVC.Infrastructure.pdb
 C:\Repo\ShopMVC\ShopMVC.Infrastructure\bin\Debug\net6.0\ShopMVC.Domain.dll
@@ -12,6 +13,5 @@ C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\ShopMVC.Infrastructure.c
 C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\ShopMVC.Infrastructure.dll
 C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\refint\ShopMVC.Infrastructure.dll
 C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\ShopMVC.Infrastructure.pdb
-C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\ref\ShopMVC.Infrastructure.dll
-C:\Repo\ShopMVC\ShopMVC.Infrastructure\bin\Debug\net6.0\ShopMVC.Infrastructure.runtimeconfig.json
 C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\ShopMVC.Infrastructure.genruntimeconfig.cache
+C:\Repo\ShopMVC\ShopMVC.Infrastructure\obj\Debug\net6.0\ref\ShopMVC.Infrastructure.dll

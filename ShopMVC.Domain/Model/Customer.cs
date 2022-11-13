@@ -14,6 +14,7 @@ namespace ShopMVC.Domain.Model
         public string City { get; set; }
         public int PostalCode { get; set; }
         public string EmailAddress { get; set; }
+        public bool IsActive { get; set; }
         public DateTime Created { get; set; }
     }
 }

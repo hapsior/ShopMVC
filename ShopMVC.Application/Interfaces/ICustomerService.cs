@@ -9,7 +9,7 @@ namespace ShopMVC.Application.Interfaces
 {
     public interface ICustomerService
     {
-        ListCustomerForListVm GetAllCustomerToList();
+        ListCustomerToList GetAllCustomerToList();
         int AddCustomer(NewCustomerVm customer);
         CustomerDetailsVm GetCustomerDetails(int customerId);
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ShopMVC.Application.ViewModels.Customer
 {
-    public class ListCustomerForListVm
+    public class ListCustomerToList
     {
         public List<CustomerToListVm> Customers { get; set; }
         public int Count { get; set; }

@@ -1,14 +1,13 @@
+.vs/
+ShopMVC/obj/
+ShopMVC/bin/
+ShopMVC.Application/bin/
+ShopMVC.Application/obj/
+ShopMVC.Domain/bin/
+ShopMVC.Domain/obj/
+ShopMVC.Infrastructure/obj/
+ShopMVC.Infrastructure/bin/
+ShopMVC.Test/obj/
+ShopMVC.Test/bin/
 
-/.vs/
-/ShopMVC/obj/
-/ShopMVC/bin/
-/ShopMVC.Application/bin/
-/ShopMVC.Application/obj/
-/ShopMVC.Domain/bin/
-/ShopMVC.Domain/obj/
-/ShopMVC.Infrastructure/obj/
-/ShopMVC.Infrastructure/bin/
-/ShopMVC.Test/obj/
-/ShopMVC.Test/bin/
 
-/ShopMVC/obj/staticwebassets.pack.sentinel

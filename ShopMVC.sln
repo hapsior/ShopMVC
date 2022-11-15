@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopMVC", "ShopMVC\ShopMVC.csproj", "{ECAB1B6E-BA2B-4797-AD60-365849AF5984}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopMVC", "ShopMVC\ShopMVC.csproj", "{ECAB1B6E-BA2B-4797-AD60-365849AF5984}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{5C235BD1-EC4F-406F-82FD-4CBC416F70DE}"
 EndProject
@@ -15,13 +15,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{631C9345-4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{99EECB65-4D37-45F8-A9C3-294DD5691C5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopMVC.Application", "ShopMVC.Application\ShopMVC.Application.csproj", "{01552564-7730-44B2-94C9-9EB465C276D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopMVC.Application", "ShopMVC.Application\ShopMVC.Application.csproj", "{01552564-7730-44B2-94C9-9EB465C276D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopMVC.Domain", "ShopMVC.Domain\ShopMVC.Domain.csproj", "{41C9D797-4038-4A18-97C8-2B6FFB135F2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopMVC.Domain", "ShopMVC.Domain\ShopMVC.Domain.csproj", "{41C9D797-4038-4A18-97C8-2B6FFB135F2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopMVC.Infrastructure", "ShopMVC.Infrastructure\ShopMVC.Infrastructure.csproj", "{6953204E-113B-4E3F-8AC4-23426151FD54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopMVC.Infrastructure", "ShopMVC.Infrastructure\ShopMVC.Infrastructure.csproj", "{6953204E-113B-4E3F-8AC4-23426151FD54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopMVC.Test", "ShopMVC.Test\ShopMVC.Test.csproj", "{ADBC6896-9052-4D9C-94A4-F10B05746624}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopMVC.Test", "ShopMVC.Test\ShopMVC.Test.csproj", "{ADBC6896-9052-4D9C-94A4-F10B05746624}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

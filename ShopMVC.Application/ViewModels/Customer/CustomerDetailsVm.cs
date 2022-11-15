@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ShopMVC.Application.Mapping;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ShopMVC.Application.ViewModels.Customer
 {
-    public class CustomerDetailsVm
+    public class CustomerDetailsVm : IMapFrom<ShopMVC.Domain.Model.Customer>
     {
         public int Id { get; set; }
         public string Name { get; set; }

@@ -16,6 +16,12 @@ namespace ShopMVC.Application.Services
     {
         private readonly ICustomerRepository _customerRepo;
         private readonly IMapper _mapper;
+        
+        public CustomerService(ICustomerRepository customerRepo,IMapper mapper)
+        {
+            _customerRepo = customerRepo;
+            _mapper = mapper;
+        }
 
         public int AddCustomer(NewCustomerVm customer)
         {
@@ -38,9 +44,10 @@ namespace ShopMVC.Application.Services
 
         public CustomerDetailsVm GetCustomerDetails(int customerId)
         {
-            var customer = _customerRepo
-                .GetCustomer(customerId).ProjectTo<CustomerDetailsVm>(_mapper.ConfigurationProvider).ToList();
+            var customer = _customerRepo.GetCustomer(customerId);
+            var details = _mapper.Map<CustomerDetailsVm>(customer);
 
+            return details;
         }
     }
 }

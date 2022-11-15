@@ -1,4 +1,5 @@
-﻿using ShopMVC.Domain.Model;
+﻿using ShopMVC.Domain.Interfaces;
+using ShopMVC.Domain.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ShopMVC.Infrastructure.Repositories
 {
-    public class ItemRepository
+    public class ItemRepository : IItemRepository
     {
         private readonly Context _context;
 

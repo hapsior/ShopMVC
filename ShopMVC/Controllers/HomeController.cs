@@ -11,18 +11,17 @@ namespace ShopMVC.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-        private readonly IItemService _itemService;
+        //private readonly ILogger<HomeController> _logger;
+        //private readonly IItemService _itemService;
 
-        public HomeController(ILogger<HomeController> logger,IItemService itemService)
-        {
-            _logger = logger;
-            _itemService = itemService;
-        }
+        //public HomeController(ILogger<HomeController> logger,IItemService itemService)
+        //{
+        //    _logger = logger;
+        //    _itemService = itemService;
+        //}
 
         public IActionResult Index()
         {
-            _itemService.GetAllItems();
             return View();
         }
 
